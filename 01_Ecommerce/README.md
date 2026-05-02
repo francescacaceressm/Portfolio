@@ -19,4 +19,4 @@ https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-data
 
 3) Tableau
 - oaded the previously exported file to create various charts and present an interactive dashboard.
--> https://public.tableau.com/views/01_E-CommerceEuropeanFashion/E-CommerceEuropeanFashion?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+-> https://public.tableau.com/views/01_E-CommerceEuropeanFashionEN/E-CommerceEuropeanFashion?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
