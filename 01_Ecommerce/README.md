@@ -18,5 +18,5 @@ https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-data
 - Finally, exported the cleaned DataFrame for use in Tableau.
 
 3) Tableau
-- oaded the previously exported file to create various charts and present an interactive dashboard.
+- Loaded the previously exported file to create various charts and present an interactive dashboard.
 -> https://public.tableau.com/views/01_E-CommerceEuropeanFashionEN/E-CommerceEuropeanFashion?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
